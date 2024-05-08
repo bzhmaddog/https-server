@@ -11,6 +11,6 @@ A simple Docker image that provide an https server using nginx for tests purpose
 ```
 # Run server
 ```
-./run.sh mydomain.xyz /path/to/the/site/files
+./start.sh mydomain.xyz /path/to/the/site/files
 ```
 
